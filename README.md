@@ -8,6 +8,8 @@ hard-coded to 2.2, but that is simple enough to change below.  Output
 filenames are suffixed with "_1", "_2", etc.  Handles the non-square
 image case and should also handle non-pow-2
 
+I'm moving this code from https://bitbucket.org/rallen/rajmipmap to here.
+
 ## Usage
 
 ```bash
